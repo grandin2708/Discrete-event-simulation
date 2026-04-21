@@ -1,5 +1,5 @@
 This "repo" contains a scientific publication 
-"A simulation study of the fleet sizing problem arising in offshore anchor handling operation" published in the 
+["A simulation study of the fleet sizing problem arising in offshore anchor handling operation" ](https://www.sciencedirect.com/science/article/abs/pii/S0377221709005141#!) published in the 
 European Journal of the Operational Research as well as its implementation using discrete event simulation software
 "Arena" developed by Rockwell Automation.
 
